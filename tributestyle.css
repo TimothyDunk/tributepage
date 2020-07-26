@@ -1,0 +1,53 @@
+main {
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 1%;
+    position: relative;
+}
+
+#title {
+    position: fixed;
+    top: 0px;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(75, 75, 75);
+    line-height: 0em;
+    color: white;
+}
+
+#img-div {
+    text-align: center;
+    background-color: rgb(83, 83, 83);
+    padding: 1em;
+}
+
+#image {
+    max-width: 90%;
+    height: auto;
+}
+
+article {
+    background-color: rgb(180, 180, 180);
+    margin: 0 20em 0 20em;
+    padding: 0 0 1em 0;
+    border-radius: 5%;
+}
+
+h2 {
+    text-align: center;
+}
+
+#timeline {
+    padding: auto;
+}
+
+.quote {
+    margin: 0 1em 1em 1em;
+    color: rgb(31, 31, 31);
+}
+
+#findoutmore {
+    text-align: center;
+    margin: 0 5em;
+    padding: 1em;
+}
